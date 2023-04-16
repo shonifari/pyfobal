@@ -139,3 +139,5 @@ cython_debug/
 res/image/data/
 .DS_Store
 tests/
+
+.vscode/
