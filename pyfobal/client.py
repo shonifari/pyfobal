@@ -1,5 +1,5 @@
 import requests
-from .types import League
+from .fobal_types import League
 
 class Client:
     def __init__(self, api_key, api_version='v1'):
