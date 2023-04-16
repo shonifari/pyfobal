@@ -42,3 +42,4 @@ jobs:
       with:
         user: __token__
         password: ${{ secrets.PYPI_ACCESS_TOKEN }}
+        packages_dir: pyfobal/dist
